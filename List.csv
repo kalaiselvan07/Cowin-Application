@@ -1,0 +1,11 @@
+S.no , Aadhaar , Name , Age , Gender , Phone , Vaccine , Dose
+1,123456789,kalai       ,21,azsdf,sdfgsdfg,covaxin,1
+2,12456888,adf         ,12,adfa,452154,covishield,1
+3,123123123,adf         ,12,asdf,44141121,sputnik,1
+4,1.11111E+11,kalai       ,12,male,14462183135,sputnik,2
+5,1231213122,adfa        ,12,5313,asdfdf,covaxin,1
+6,12222222,adf         ,55,adfa,sadfdf,covaxin,1
+7,1321312132,aerf        ,42,sdfdfa,asdfasdf,sputnik,2
+8,13212112121,asdfa       ,61,sdafadf,asdfdfsafd,sputnik,0
+9,5.55556E+11,appu        ,80,male,1332131,covaxin,1
+10,664664466,sdfgsg      ,12,adfaf,asdfasfadf,sputnik,2
